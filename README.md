@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7d404459-52c9-4d5b-b004-85bd41ba79e6/deploy-status)](https://app.netlify.com/sites/eventstarter/deploys)
+
 # [EventStarter](https://eventstarter.netlify.com/)
 
 https://eventstarter.netlify.com/
