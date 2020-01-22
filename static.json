@@ -1,0 +1,5 @@
+{
+  "routes": {
+    "/assets/*": "src/assets/"
+  }
+}
