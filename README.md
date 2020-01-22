@@ -1,4 +1,7 @@
-# EventStarter
+# [EventStarter](https://eventstarter.netlify.com/)
+
+https://eventstarter.netlify.com/
+
 Organiza y gestiona tus eventos de manera sencilla, a la vez que encuentras una oportunidad de negocio proporcionando los servicios y dedicándote a lo que siempre deseaste.
 
 En este repositorio se contempla el desarrollo/diseño, desde el comienzo hasta el final de la asignatura, de un proyecto software. En nuestro caso EventStarter.
@@ -35,3 +38,5 @@ Todas estos y más son los servicios que ofrecemos de forma gratuita con nuestro
 ### Licencia
 
 Este proyecto esta bajo la licencia LGPL v3 - Ver [LICENSE]() para más detalle.
+
+**Web Desing:** [HTML5 UP](https://html5up.net)
