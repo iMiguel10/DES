@@ -4,6 +4,14 @@
 
 https://eventstarter.netlify.com/
 
+## Contenidos
+
+* **P1 y P2:** Contiene las prácticas 1 y 2 (Primera entrega).
+* **P3:** Contiene la práctica 3, con la iteración 1 y 2. (2º y 3º entrega).
+* **src:** Fuentes de la web.
+
+## Descripción
+
 Organiza y gestiona tus eventos de manera sencilla, a la vez que encuentras una oportunidad de negocio proporcionando los servicios y dedicándote a lo que siempre deseaste.
 
 En este repositorio se contempla el desarrollo/diseño, desde el comienzo hasta el final de la asignatura, de un proyecto software. En nuestro caso EventStarter.
